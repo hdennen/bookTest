@@ -1,0 +1,13 @@
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\BookStats.exe
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\BookStats.deps.json
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\BookStats.runtimeconfig.json
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\BookStats.runtimeconfig.dev.json
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\BookStats.dll
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\BookStats.pdb
+C:\repos\BookStats\BookStats\BookStats\obj\Debug\netcoreapp3.1\BookStats.csprojAssemblyReference.cache
+C:\repos\BookStats\BookStats\BookStats\obj\Debug\netcoreapp3.1\BookStats.AssemblyInfoInputs.cache
+C:\repos\BookStats\BookStats\BookStats\obj\Debug\netcoreapp3.1\BookStats.AssemblyInfo.cs
+C:\repos\BookStats\BookStats\BookStats\obj\Debug\netcoreapp3.1\BookStats.dll
+C:\repos\BookStats\BookStats\BookStats\obj\Debug\netcoreapp3.1\BookStats.pdb
+C:\repos\BookStats\BookStats\BookStats\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\repos\BookStats\BookStats\BookStats\obj\Debug\netcoreapp3.1\BookStats.csproj.CopyComplete
